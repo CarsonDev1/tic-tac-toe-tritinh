@@ -9,8 +9,8 @@ To run the project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone <(https://github.com/CarsonDev1/tic-tac-toe-tritinh)>
+    cd <tic-tac-toe-tritinh>
     ```
 
 2. **Install dependencies:**
